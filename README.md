@@ -109,10 +109,15 @@ Generated meaningful business insights from the visualized data.
 ✨ Key Learnings
 
 ✅ Creating professional and interactive dashboards in Excel
+
 ✅ Using Pivot Tables for data summarization
+
 ✅ Building dynamic charts and visual reports
+
 ✅ Applying slicers for interactive filtering
+
 ✅ Understanding business performance metrics
+
 ✅ Improving data storytelling and presentation skills
 
 🔮 Future Improvements
